@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class EndGame : MonoBehaviour {
-
+    //fiznotest
 	public GameObject pD;
 	public GameObject blackScreen;
 	public LayerMask player;
