@@ -3,8 +3,6 @@ using System.Collections;
 
 public class EndGame : MonoBehaviour {
 
-    //PRADO GAY
-
 	public GameObject pD;
 	public GameObject blackScreen;
 	public LayerMask player;
